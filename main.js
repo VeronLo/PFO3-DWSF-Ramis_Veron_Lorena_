@@ -94,7 +94,7 @@ Finalmente, imprimí el resultado en la consola utilizando el método console.lo
 
 function separadorDeSolucion() {
     console.log('');
-    console.log('-----------------------------------');
+    console.log('////////////////////////////////////////////////////////////');
     console.log('');
 }
 
